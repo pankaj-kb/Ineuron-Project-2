@@ -90,23 +90,26 @@ body {
 }
 
 .hero-description {
+    position: relative;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 25px;
     color: #ffffff;
     margin-top: -40px;
+    margin-bottom: 50px;
 
     /* margin-bottom: 80px; */
 }
 
 .button-large {
+    position: relative;
     text-align: center;
     font-size: 30px;
     font-weight: 600;
     color: #ffffff;
     background-color: #BA0CC5;
-    padding: 15px 30px;
+    padding: 20px 30px;
     border: none;
     border-radius: 20px;
 }
